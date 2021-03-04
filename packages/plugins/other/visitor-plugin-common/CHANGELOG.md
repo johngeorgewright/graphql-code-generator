@@ -1,5 +1,14 @@
 # @graphql-codegen/visitor-plugin-common
 
+## 1.18.4
+
+### Patch Changes
+
+- 29b75b1e: enhance(docs): improve docs for naming convention
+- 29b75b1e: enhance(namingConvention): use change-case-all instead of individual packages for naming convention
+- Updated dependencies [29b75b1e]
+  - @graphql-codegen/plugin-helpers@1.18.3
+
 ## 1.18.3
 
 ### Patch Changes
